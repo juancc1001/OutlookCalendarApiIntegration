@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a2xT0gbIjnMszyJ/S5rVHDu3ciP9cpQH2GNeqZ70wJQ=",
+  "Source": "OutlookSyncApi",
+  "BasePath": "_content/OutlookSyncApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

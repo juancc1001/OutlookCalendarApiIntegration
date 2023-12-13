@@ -1,0 +1,14 @@
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\bin\Debug\net6.0\OutlookSyncApi.DataBase.deps.json
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\bin\Debug\net6.0\OutlookSyncApi.DataBase.runtimeconfig.json
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\bin\Debug\net6.0\OutlookSyncApi.DataBase.dll
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\bin\Debug\net6.0\OutlookSyncApi.DataBase.pdb
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\obj\Debug\net6.0\OutlookSyncApi.DataBase.csproj.AssemblyReference.cache
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\obj\Debug\net6.0\OutlookSyncApi.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\obj\Debug\net6.0\OutlookSyncApi.DataBase.AssemblyInfoInputs.cache
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\obj\Debug\net6.0\OutlookSyncApi.DataBase.AssemblyInfo.cs
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\obj\Debug\net6.0\OutlookSyncApi.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\obj\Debug\net6.0\OutlookSyncApi.DataBase.dll
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\obj\Debug\net6.0\refint\OutlookSyncApi.DataBase.dll
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\obj\Debug\net6.0\OutlookSyncApi.DataBase.pdb
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\obj\Debug\net6.0\OutlookSyncApi.DataBase.genruntimeconfig.cache
+C:\Users\Juanc\Documents\repos\TOTS_test_C#\OutlookSyncApi\OutlookSyncApi.DataBase\obj\Debug\net6.0\ref\OutlookSyncApi.DataBase.dll
