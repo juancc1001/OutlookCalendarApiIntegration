@@ -1,6 +1,7 @@
 # Outlook Calendar Integration App
 
 Este repositorio contiene una api capaz de integrarse con el calendario de outlook a traves de microsoft graph. Utiliza ASP.NET 7 y esta integrado a swagger para su uso.  
+url de prueba: https://calendarmanageapi.azurewebsites.net/swagger/index.html
 
 ## Como usar: 
 1. La aplicacion usa device-code flow authentication, por lo que es necesario iniciar sesion llamando al endpoint /DeviceCode 
