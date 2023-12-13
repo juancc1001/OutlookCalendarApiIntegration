@@ -19,7 +19,7 @@ public class CalendarController : ControllerBase
         _context = ctx;
     }
 
-    [HttpGet("/GetWeekEvents")]
+    [HttpGet("/GetWeeklyCalendar")]
     public ActionResult GetCalendarEvents()
     {
         var token = _context.HttpContext.Session.GetString("_accessToken");
